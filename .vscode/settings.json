@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "abandoned_carts"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
